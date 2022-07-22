@@ -1,0 +1,12 @@
+#!/home/felipe/Downloads/wsn-master/pymote_env/bin/python2
+# EASY-INSTALL-ENTRY-SCRIPT: 'Pymote','console_scripts','ipymote'
+__requires__ = 'Pymote'
+import re
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(
+        load_entry_point('Pymote', 'console_scripts', 'ipymote')()
+    )

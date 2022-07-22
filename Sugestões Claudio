@@ -1,0 +1,12 @@
+self.list_app = []
+
+self.sensing_unit = []
+
+
+class App(object) - ok
+
+
+list_app -> lista de objetos da classe App
+
+
+sensing unit -> lista de tuplas (tipo, sensing_rate )

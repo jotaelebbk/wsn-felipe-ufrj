@@ -1,0 +1,8 @@
+#!/home/felipe/Downloads/wsn-master/python/utils/pymote_env/bin/python2
+# -*- coding: utf-8 -*-
+import re
+import sys
+from pymote.scripts.ipymote import start_ipymote
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(start_ipymote())
