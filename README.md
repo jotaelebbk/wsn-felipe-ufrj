@@ -28,4 +28,8 @@ All non-trivial requirements (the ones you cannot get via pip install) are insid
 
 4. <a name="ref4"></a>C. Yu, W. Guo and G. Chen, "Energy-balanced Sleep Scheduling Based on Particle Swarm Optimization in Wireless Sensor Network," 2012 IEEE 26th International Parallel and Distributed Processing Symposium Workshops & PhD Forum, Shanghai, 2012, pp. 1249-1255.
 
-5. <a name="ref5"></a>K. Deb, A. Pratap, S. Agarwal and T. Meyarivan, "A fast and elitist multiobjective genetic algorithm: NSGA-II," in IEEE Transactions on Evolutionary Computation, vol. 6, no. 2, pp. 182-197, April 2002. 
+5. <a name="ref5"></a>K. Deb, A. Pratap, S. Agarwal and T. Meyarivan, "A fast and elitist multiobjective genetic algorithm: NSGA-II," in IEEE Transactions on Evolutionary Computation, vol. 6, no. 2, pp. 182-197, April 2002.
+
+
+# Minha contribuicao:
+Enquanto estagiava na UFRJ minha missao foi criar um novo uso para o codigo original atualizando ele (como sempre ocorreu com esse projeto), implementamos alguns algoritmos novos, trabalhamos os dados gerados e no fim tivemos um otimo projeto.
